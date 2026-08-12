@@ -30,11 +30,14 @@ https://streams.comclark.com/pknsd/alltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazingFactsTV.us@SD",Amazing Facts TV (1080p)
 https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
 
-#EXTINF:-1 tvg-id="AmericanHorrors.us@SD",American Horrors (480p)
-http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:-1 tvg-id="",America's Got Talent (720p)
+https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
 
 #EXTINF:-1 tvg-id="AmericasNextTopModel.us@SD",America's Next Top Model
 https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
+
+#EXTINF:-1 tvg-id="AmericanHorrors.us@SD",American Horrors (480p)
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANC.ph@SD" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News",ANC (480p)
 https://streams.comclark.com/pknsd/anc/playlist.m3u8
@@ -54,11 +57,20 @@ https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #EXTINF:-1 tvg-id="AsianCrush.us@SD",AsianCrush (1080p)
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="",Baby Einstein (720p)
+https://ds25p79iq4576.cloudfront.net/master.m3u8
+
 #EXTINF:-1 tvg-id="BabySharkTV.us@SD",Baby Shark TV
 https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst.us@US",BabyFirst (720p)
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Barbie and Friends (1080p)
+https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
+
+#EXTINF:-1 tvg-id="",Barney and Friends (720p)
+https://d3vm2nhw5t7pkh.cloudfront.net/v1/cinedigm_entertainment_corp_barneyandfriends_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="News",BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
@@ -86,6 +98,9 @@ https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 
 #EXTINF:-1 group-title="News",Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-id="bonappetit.us@SD",bon appétit (1080p)
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",Boruto: Naruto Next Generations
 https://jmp2.uk/plu-696997049889f8db34c936c2.m3u8
@@ -156,6 +171,9 @@ https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@International",Documentary+ International (1080p)
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ducktv.sk@SD",ducktv (720p)
+https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
+
 #EXTINF:-1 tvg-id="E.us@East",E! (1080p)
 http://23.237.104.106:8080/USA_E/index.m3u8
 
@@ -216,11 +234,20 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-id="HallmarkMystery.us@East",Hallmark Mystery (1080p)
 http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
 
+#EXTINF:-1 tvg-id="HappyKids.us@SD",HappyKids (1080p)
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+
 #EXTINF:-1 tvg-id="History.us@East",History (720p)
 http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="History.us@East",History (720p)
 http://212.5.144.156:8080/history/index.m3u8
+
+#EXTINF:-1 tvg-id="",Hoarders by A&E (720p)
+https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Hot Wheels Action (1080p)
+https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8
 
 #EXTINF:-1 tvg-id="IBC13.ph@SD" tvg-logo="https://i.imgur.com/1KaTUOo.png" group-title="General",IBC 13 (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
@@ -257,6 +284,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707731616/ei/Q
 
 #EXTINF:-1 tvg-id="KapatidTV5.ph@SD" tvg-logo="https://i.imgur.com/xb5lkwG.png" group-title="General",Kapatid TV 5 (480p) [Geo-blocked]
 https://thinkkast.dpdns.org/tkk-ph/i7/kapatid_hd/kapatid.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD",Kartoon Channel! (720p)
+https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8
 
 #EXTINF:-1 tvg-id="KidsMovieClub.us@SD",Kids Movie Club
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
