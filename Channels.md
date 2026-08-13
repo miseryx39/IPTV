@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 ## Categories
 <table>
   <thead>
-    <tr><th>Symbol</th><th>Category</th><th>Description</th></tr>
+    <tr><th></th><th>Category</th><th>Description</th></tr>
   </thead>
   <tbody>
    <tr><td>:globe_with_meridians:</td><td>General</td><td>Mainstream national networks and general broadcast channels</td></tr>
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
    <tr><td>:briefcase:</td><td>Business</td><td>Financial news, stock market updates, and economy</td></tr>
    <tr><td>:teddy_bear:</td><td>Kids</td><td>Cartoons, preschool programming, and youth series</td></tr>
    <tr><td>:ramen:</td><td>Animation & Anime</td><td>Animated shows, classic cartoons, and Japanese anime</td></tr>
-   <tr><td>:graduation_cap:</td><td>Educational</td><td>Learning networks, public television, and kids' instruction</td></tr>
+   <tr><td>:school:</td><td>Educational</td><td>Learning networks, public television, and kids' instruction</td></tr>
    <tr><td>:musical_note:</td><td>Music</td><td>Live music video channels, concerts, and radio broadcasts</td></tr>
    <tr><td>:art:</td><td>Arts & Culture</td><td>Theater, fine arts, classical music, and indie cinema</td></tr>
    <tr><td>:video_game:</td><td>Gaming & Esports</td><td>Live video game streams, competitions, and gaming news</td></tr>
