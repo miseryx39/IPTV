@@ -8,170 +8,136 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 ### :ramen: Animation & Anime
 
-Animated shows, classic cartoons, and Japanese anime
-
 <details>
-<summary>Expand</summary>
+<summary>Animated shows, classic cartoons, and Japanese anime</summary>
 
   
 </details>
 
 ### :art: Arts & Culture
 
-Theater, fine arts, classical music, and indie cinema
-
 <details>
-<summary>Expand</summary>
+<summary>Theater, fine arts, classical music, and indie cinema</summary>
 
   
 </details>
 
 ### :briefcase: Business & Finance
 
-Financial news, stock market updates, and economy
-
 <details>
-<summary>Expand</summary>
+<summary>Financial news, stock market updates, and economy</summary>
 
   
 </details>
 
 ### :earth_asia: Documentary
 
-History, nature, science, and investigation networks
-
 <details>
-<summary>Expand</summary>
+<summary>History, nature, science, and investigation networks</summary>
 
   
 </details>
 
 ### :school: Educational
 
-Learning networks, public television, and kids' instruction
-
 <details>
-<summary>Expand</summary>
+<summary>Learning networks, public television, and kids' instruction</summary>
 
   
 </details>
 
 ### :performing_arts: Entertainment
 
-Drama series, reality TV, game shows, and general TV
-
 <details>
-<summary>Expand</summary>
+<summary>Drama series, reality TV, game shows, and general TV</summary>
 
   
 </details>
 
 ### :video_game: Gaming & Esports
 
-Live video game streams, competitions, and gaming news
-
 <details>
-<summary>Expand</summary>
+<summary>Live video game streams, competitions, and gaming news</summary>
 
   
 </details>
 
 ### :globe_with_meridians: General
 
-Mainstream national networks and general broadcast channels
-
 <details>
-<summary>Expand</summary>
+<summary>Mainstream national networks and general broadcast channels</summary>
 
   
 </details>
 
 ### :teddy_bear: Kids
 
-Cartoons, preschool programming, and youth series
-
 <details>
-<summary>Expand</summary>
+<summary>Cartoons, preschool programming, and youth series</summary>
 
   
 </details>
 
 ### :balance_scale: Legislative
 
-Government proceedings, C-SPAN, parliament feeds
-
 <details>
-<summary>Expand</summary>
+<summary>Government proceedings, C-SPAN, parliament feeds</summary>
 
   
 </details>
 
 ### :fried_egg: Lifestyle & Food
 
-Cooking, home improvement, travel, and fashion
-
 <details>
-<summary>Expand</summary>
+<summary>Cooking, home improvement, travel, and fashion</summary>
 
   
 </details>
 
 ### :clapper: Movies
 
-Dedicated cinema channels, film networks, and blockbusters
-
 <details>
-<summary>Expand</summary>
+<summary>Dedicated cinema channels, film networks, and blockbusters</summary>
 
   
 </details>
 
 ### :musical_note: Music
 
-Live music video channels, concerts, and radio broadcasts
-
 <details>
-<summary>Expand</summary>
+<summary>Live music video channels, concerts, and radio broadcasts</summary>
 
   
 </details>
 
 ### :newspaper: News
 
-24/7 news, headlines, weather, and world affairs
-
 <details>
-<summary>Expand</summary>
+<summary>24/7 news, headlines, weather, and world affairs</summary>
 
   
 </details>
 
 ### :church: Religious & Faith
 
-Faith-based programming and spiritual broadcasts
-
 <details>
-<summary>Expand</summary>
+<summary>Faith-based programming and spiritual broadcasts</summary>
 
   
 </details>
 
 ### :test_tube: Science & Tech
 
-Technology news, space, engineering, and innovation
-
 <details>
-<summary>Expand</summary>
+<summary>Technology news, space, engineering, and innovation</summary>
 
   
 </details>
 
 ### :basketball: Sports
 
-General sports networks, live coverage, and highlights
-
 <details>
-<summary>Expand</summary>
+<summary>General sports networks, live coverage, and highlights</summary>
 
   
 </details>
