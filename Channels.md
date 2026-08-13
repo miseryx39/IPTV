@@ -1,5 +1,35 @@
 ## 🔗 Playlist
-> https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
+
+```
+https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
+```
+
+## Categories
+<table>
+  <thead>
+    <tr><th>Symbol</th><th>Category</th><th>Description</th></tr>
+  </thead>
+  <tbody>
+   <tr><td>:globe_with_meridians:</td><td>General</td><td>Mainstream national networks and general broadcast channels</td></tr>
+   <tr><td>:newspaper:</td><td>News</td><td>24/7 news, headlines, weather, and world affairs</td></tr>
+   <tr><td>:clapper:</td><td>Movies</td><td>Dedicated cinema channels, film networks, and blockbusters</td></tr>
+   <tr><td>:performing_arts:</td><td>Entertainment</td><td>Drama series, reality TV, game shows, and general TV</td></tr>
+   <tr><td>:fried_egg:</td><td>Lifestyle & Food</td><td>Cooking, home improvement, travel, and fashion</td></tr>
+   <tr><td>:basketball:</td><td>Sports</td><td>General sports networks, live coverage, and highlights</td></tr>
+   <tr><td>:earth_asia:</td><td>Documentary</td><td>History, nature, science, and investigation networks</td></tr>
+   <tr><td>:test_tube:</td><td>Science & Tech</td><td>Technology news, space, engineering, and innovation</td></tr>
+   <tr><td>:briefcase:</td><td>Business</td><td>Financial news, stock market updates, and economy</td></tr>
+   <tr><td>:teddy_bear:</td><td>Kids</td><td>Cartoons, preschool programming, and youth series</td></tr>
+   <tr><td>:ramen:</td><td>Animation & Anime</td><td>Animated shows, classic cartoons, and Japanese anime</td></tr>
+   <tr><td>:graduation_cap:</td><td>Educational</td><td>Learning networks, public television, and kids' instruction</td></tr>
+   <tr><td>:musical_note:</td><td>Music</td><td>Live music video channels, concerts, and radio broadcasts</td></tr>
+   <tr><td>:art:</td><td>Arts & Culture</td><td>Theater, fine arts, classical music, and indie cinema</td></tr>
+   <tr><td>:video_game:</td><td>Gaming & Esports</td><td>Live video game streams, competitions, and gaming news</td></tr>
+   <tr><td>:balance_scale:</td><td>Legislative</td><td>Government proceedings, C-SPAN, parliament feeds</td></tr>
+   <tr><td>:church:</td><td>Religious & Faith</td><td>Faith-based programming and spiritual broadcasts</td></tr>
+  </tbody>
+</table>
+   
 
 ## ▶️ Channels (as of 8/14/2026)
 - 90's Kids
