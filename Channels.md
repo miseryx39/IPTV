@@ -10,7 +10,17 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Animated shows, classic cartoons, and Japanese anime</summary>
-
+  
+- Animax
+- Aniplus Asia
+- ANIME x HIDIVE
+- Boruto: Naruto Next Generations
+- One Piece
+- Pokémon
+- Toonami Aftermath East
+- Toonami Aftermath Movies
+- Toonami Aftermath Radio
+- Yu-Gi-Oh!
   
 </details>
 
@@ -19,6 +29,9 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Theater, fine arts, classical music, and indie cinema</summary>
 
+- Craftsy
+- Create
+- DIY Art
   
 </details>
 
@@ -27,6 +40,10 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Financial news, stock market updates, and economy</summary>
 
+- Bilyonaryo News Channel
+- Bloomberg Asia
+- EntrepreneurTV
+- Yahoo! Finance
   
 </details>
 
@@ -35,6 +52,17 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>History, nature, science, and investigation networks</summary>
 
+- CGTN Documentaries
+- Documentary+
+- Documentary+ International
+- History
+- Mysteries Xplored
+- National Geographic
+- National Geographic Wild
+- The Explorers
+- The X-Files
+- True History
+- Unsolved Mysteries
   
 </details>
 
@@ -43,6 +71,7 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Learning networks, public television, and kids' instruction</summary>
 
+- DepEd TV
   
 </details>
 
@@ -51,6 +80,45 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Drama series, reality TV, game shows, and general TV</summary>
 
+- 90's Kids
+- 90s Kids TV 2
+- 90s Throwback
+- ABC
+- ALLTV
+- America's Got Talent
+- America's Next Top Model
+- American Horrors
+- Arirang
+- AsianCrush
+- Best of Dr. Phil
+- Big Brother
+- Comedy Central
+- E!
+- EWTN Asia-Pacific
+- Family Feud
+- Fear Factor
+- FilAm TV Network
+- Fox
+- Funny AF
+- FX
+- Ghost Hunters
+- Impossible Quiz Show
+- Japanim TV
+- Just for Laughs Gags
+- Laff
+- Lifetime
+- Lifetime Asia
+- Living Asia Channel
+- POP TV
+- Series K Edge
+- Series K Heart
+- Series K Legacy
+- SNL Vault
+- Supermarket Sweep
+- The Amazing Race
+- The Biggest Loser
+- The Challenge
+- Wipeout Xtra
   
 </details>
 
@@ -67,6 +135,11 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Mainstream national networks and general broadcast channels</summary>
 
+- GMA
+- GTV
+- Kapamilya Channel
+- Kapamilya Online Live
+- TV5
   
 </details>
 
@@ -75,6 +148,38 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Cartoons, preschool programming, and youth series</summary>
 
+- Baby Einstein
+- Baby Shark TV
+- BabyFirst
+- Barbie and Friends
+- Barney and Friends
+- Cartoon Channel PH
+- Cartoonito
+- Disney Channel
+- Disney Junior
+- Disney XD
+- DuckTV
+- HappyKids
+- Hot Wheels Action
+- Kartoon Channel!
+- Kids Movie Club
+- LEGO Kids TV
+- Little Angel's Playroom
+- Magic Kids
+- Mattel Jr.
+- Moonbug Kids
+- Mr. Beast
+- Nick Jr.
+- Nick Jr. Asia
+- Nickelodeon
+- Nicktoons
+- Peppa Pig
+- PBS Kids
+- PBS Kids Eastern/Central
+- Strawberry Shortcake and Friends
+- Super Simple Songs
+- TeenNick
+- ToonGoggles
   
 </details>
 
@@ -83,6 +188,12 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Government proceedings, C-SPAN, parliament feeds</summary>
 
+- Crime + Investigation
+- Crime & Justice
+- CSI
+- Forensic Files
+- Justice Central TV
+- The Judge Judy Channel
   
 </details>
 
@@ -90,6 +201,17 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Cooking, home improvement, travel, and fashion</summary>
+
+- Bon Appétit
+- Cooking Panda
+- Gordon Ramsay's Hell's Kitchen
+- Hoarders by A&E
+- In the Kitchen
+- InTravel
+- Outdoor Channel
+- Property & Reno
+- The Design Network
+- The Shopping Channel
 
   
 </details>
@@ -99,6 +221,30 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Dedicated cinema channels, film networks, and blockbusters</summary>
 
+- Cinemo
+- FX Movie Channel
+- Hallmark Channel
+- Hallmark Family
+- Hallmark Movies & More
+- Hallmark Mystery
+- Jeepney TV
+- Lifetime Movies
+- MovieSphere
+- Showtime
+- Showtime 2
+- Showtime Extreme
+- Showtime Family Zone
+- Showtime Next
+- Starz
+- Starz Cinema
+- Starz Comedy
+- Starz Edge
+- Starz Encore
+- Starz Kids & Family
+- Tagalized Movie Channel
+- The Addams Family
+- The Walking Dead Universe
+- Thrillers
   
 </details>
 
@@ -107,6 +253,19 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Live music video channels, concerts, and radio broadcasts</summary>
 
+- Kool TV
+- MTV
+- MTV2
+- MTV Biggest Pop
+- MTV Classic
+- MTV Live
+- Vevo 2K
+- Vevo '90s
+- Vevo Pop
+- Vevo R&B
+- Vevo Rock
+- Vevo True School Hip-Hop
+- Yo! MTV
   
 </details>
 
@@ -115,6 +274,15 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>24/7 news, headlines, weather, and world affairs</summary>
 
+- Abante TV
+- ANC
+- BBC News Asia Pacific
+- BBC World News
+- CGTN News Live
+- CNN
+- IBC 13
+- PTV 4
+- RPTV
   
 </details>
 
@@ -123,6 +291,10 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Faith-based programming and spiritual broadcasts</summary>
 
+- A2Z
+- Amazing Facts TV
+- CLTV 36
+- TV Maria
   
 </details>
 
@@ -131,6 +303,8 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Technology news, space, engineering, and innovation</summary>
 
+- Scientology Network KSCN-DT1
+- Space Series
   
 </details>
 
@@ -139,5 +313,12 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>General sports networks, live coverage, and highlights</summary>
 
+- Bein Sports Xtra
+- Fight Network
+- NBA TV
+- Premier Sports
+- Premier Sports 2
+- WWE Superstar Central
+- YES Network
   
 </details>
