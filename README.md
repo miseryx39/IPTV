@@ -19,11 +19,12 @@ The goal is simple: keep a clean, regularly maintained list of publicly availabl
 ### 📦 Installation
 
 1. Copy this playlist link:
+   
    ```
    https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
    ```
-2. Go to your IPTV player and add a playlist
-3. Paste copied playlist link and follow on-screen instructions
+3. Go to your IPTV player and add a playlist
+4. Paste copied playlist link and follow on-screen instructions
 
 ## 🤝 Contributing
 
