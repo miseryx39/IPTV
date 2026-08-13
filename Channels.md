@@ -32,45 +32,45 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
    
 
 ## ▶️ Channels (as of 8/14/2026)
-- 90's Kids
-- 90s Kids TV 2
-- 90s Throwback
+- 90's Kids :performing_arts:
+- 90s Kids TV 2 :performing_arts:
+- 90s Throwback :performing_arts:
 - A2Z
-- Abante TV
+- Abante TV :newspaper:
 - ABC
 - ALLTV
 - Amazing Facts TV
-- America's Got Talent
-- America's Next Top Model
-- American Horrors
+- America's Got Talent :performing_arts:
+- America's Next Top Model :performing_arts:
+- American Horrors :performing_arts:
 - ANC
 - Animax
 - Aniplus Asia
 - ANIME x HIDIVE
 - Arirang
-- AsianCrush
-- Baby Einstein
-- Baby Shark TV
-- BabyFirst
-- Barbie and Friends
-- Barney and Friends
-- BBC News Asia Pacific
-- BBC World News
+- AsianCrush :performing_arts:
+- Baby Einstein :teddy_bear:
+- Baby Shark TV :teddy_bear:
+- BabyFirst :teddy_bear:
+- Barbie and Friends :teddy_bear:
+- Barney and Friends :teddy_bear:
+- BBC News Asia Pacific :newspaper:
+- BBC World News :newspaper:
 - Bein Sports Xtra
-- Best of Dr. Phil
-- Big Brother
-- Bilyonaryo News Channel
+- Best of Dr. Phil :performing_arts:
+- Big Brother :performing_arts:
+- Bilyonaryo News Channel :newspaper:
 - Bloomberg Asia
 - Bon Appétit
 - Boruto: Naruto Next Generations
-- Cartoon Channel PH
-- Cartoonito
+- Cartoon Channel PH :teddy_bear:
+- Cartoonito :teddy_bear:
 - CGTN Documentaries
-- CGTN News Live
+- CGTN News Live :newspaper:
 - Cinemo
 - CLTV 36
-- CNN
-- Comedy Central
+- CNN :newspaper:
+- Comedy Central :performing_arts:
 - Cooking Panda
 - Craftsy
 - Create
@@ -78,8 +78,8 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 - Crime & Justice
 - CSI
 - DepEd TV
-- Disney Channel
-- Disney Junior
+- Disney Channel :teddy_bear:
+- Disney Junior :teddy_bear:
 - Disney XD
 - DIY Art
 - Documentary+
@@ -88,21 +88,21 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 - E!
 - EntrepreneurTV
 - EWTN Asia-Pacific
-- Family Feud
-- Fear Factor
+- Family Feud :performing_arts:
+- Fear Factor :performing_arts:
 - Fight Network
-- FilAm TV Network
+- FilAm TV Network :performing_arts:
 - Forensic Files
 - Fox
 - FX
 - FX Movie Channel
-- Funny AF
-- Ghost Hunters
-- GMA
+- Funny AF :performing_arts:
+- Ghost Hunters :performing_arts:
+- GMA :performing_arts:
 - Gordon Ramsay's Hell's Kitchen
 - GTV
-- Hallmark Channel
-- Hallmark Family
+- Hallmark Channel :performing_arts:
+- Hallmark Family :performing_arts:
 - Hallmark Movies & More
 - Hallmark Mystery
 - HappyKids
@@ -110,29 +110,29 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 - Hoarders by A&E
 - Hot Wheels Action
 - IBC 13
-- Impossible Quiz Show
+- Impossible Quiz Show :performing_arts:
 - In the Kitchen
 - InTravel
 - Japanim TV
 - Jeepney TV
-- Just for Laughs Gags
+- Just for Laughs Gags :performing_arts:
 - Justice Central TV
-- Kapamilya Channel
-- Kapamilya Online Live
-- Kapatid TV 5
+- Kapamilya Channel :performing_arts:
+- Kapamilya Online Live :performing_arts:
+- Kapatid TV 5 :performing_arts:
 - Kartoon Channel!
 - Kids Movie Club
 - Kool TV
-- Laff
+- Laff :performing_arts:
 - LEGO Kids TV
-- Lifetime
-- Lifetime Asia
+- Lifetime :performing_arts:
+- Lifetime Asia :performing_arts:
 - Lifetime Movies
 - Little Angel's Playroom
-- Living Asia Channel
+- Living Asia Channel :performing_arts:
 - Magic Kids
 - Mattel Jr.
-- MNB World
+- MNB World :newspaper:
 - Moonbug Kids
 - MovieSphere
 - Mr. Beast
@@ -160,19 +160,19 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 - Premier Sports
 - Premier Sports 2
 - Property & Reno
-- PTV 4
-- RPTV
+- PTV 4 :newspaper:
+- RPTV :newspaper:
 - RTM ASEAN
 - Scientology Network KSCN-DT1
-- Series K Edge
-- Series K Heart
-- Series K Legacy
+- Series K Edge :performing_arts:
+- Series K Heart :performing_arts:
+- Series K Legacy :performing_arts:
 - Showtime
 - Showtime 2
 - Showtime Extreme
 - Showtime Family Zone
 - Showtime Next
-- SNL Vault
+- SNL Vault :performing_arts:
 - Space Series
 - Starz
 - Starz Cinema
@@ -182,8 +182,8 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 - Starz Kids & Family
 - Strawberry Shortcake and Friends
 - Super Simple Songs
-- Supermarket Sweep
-- The Biggest Loser
+- Supermarket Sweep :performing_arts:
+- The Biggest Loser :performing_arts:
 - Tagalized Movie Channel
 - TeenNick
 - TFC Guam
@@ -203,9 +203,9 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 - ToonGoggles
 - True History
 - TV Maria
-- TV5
+- TV5 :performing_arts:
 - Unsolved Mysteries
-- Vegas Life TV
+- Vegas Life TV :performing_arts:
 - Vevo 2K
 - Vevo '90s
 - Vevo Pop
