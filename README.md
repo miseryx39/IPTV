@@ -13,8 +13,8 @@ The goal is simple: keep a clean, regularly maintained list of publicly availabl
 
 ### 🛠️ Prerequisites
 
-- You'll need a media player that supports M3U playlists. Please see the [Players](https://raw.githubusercontent.com/miseryx39/IPTV/main/Players.md) file for a list of recommended IPTV players.
-- You may also check the [Channels](https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.md) file for more information about this playlist.
+- You'll need a media player that supports M3U playlists. Please see the [Players](#players) file for a list of recommended IPTV players.
+- You may also check the [Channels](#channels) file for more information about this playlist.
 
 ### 📦 Installation
 
@@ -25,8 +25,8 @@ The goal is simple: keep a clean, regularly maintained list of publicly availabl
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please read the [Contributing Guidelines](https://raw.githubusercontent.com/miseryx39/IPTV/main/Contributing-Guidelines.md) before submitting a pull request.
+Contributions are welcome! Please read the [Contributing Guidelines](#contributing-guidelines) before submitting a pull request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [License](https://raw.githubusercontent.com/miseryx39/IPTV/main/License.md) file for details.
+This project is licensed under the MIT License - see the [License](#license) file for details.
