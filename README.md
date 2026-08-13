@@ -35,6 +35,7 @@ Contributions are welcome! Please read the [Contributing Guidelines](Contributin
 Huge thanks to the following users and their repositories for sourcing and organizing many of the public playlist links used in this project.
 - [@iptv-org](https://github.com/iptv-org) - [`iptv`](https://github.com/iptv-org/iptv) 
 - [@Harleythetech](https://github.com/Harleythetech) - [`iphtv`](https://github.com/Harleythetech/IPHTV)
+- [@epgshare01](https://github.com/epgshare01) - [`EPG`](https://epgshare01.online/)
 
 ## ‼️ Disclaimer
 
