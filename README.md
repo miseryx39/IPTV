@@ -14,7 +14,7 @@ The goal is simple: keep a clean, regularly maintained list of publicly availabl
 ### 🛠️ Prerequisites
 
 - You'll need a media player that supports M3U playlists. Please see the [Players](https://raw.githubusercontent.com/miseryx39/IPTV/main/Players.md) file for a list of recommended IPTV players.
-- You may also check the [Channels] file for more information about this playlist.
+- You may also check the [Channels](https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.md) file for more information about this playlist.
 
 ### 📦 Installation
 
