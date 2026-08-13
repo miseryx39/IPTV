@@ -38,7 +38,7 @@ Huge thanks to the following users and their repositories for sourcing and organ
 
 ## ‼️ Disclaimer
 
-I am not a professional. I am just someone with a laptop, a passion for solving problems, and a bank account balance that makes paid TV look like a luxury yacht. Do not treat this repository like a enterprise-grade software product backed by a support team. There is no support team. It's just me, probably running on cheap coffee and trial-and-error.
+I am not a professional. I am just someone with a laptop, a passion for solving problems, and a bank account balance that makes paid TV look like a luxury yacht. Do not treat this repository like an enterprise-grade software/product backed by a support team. There is no support team. It's just me, probably running on cheap coffee and trial-and-error.
 
 ## 📄 License
 
