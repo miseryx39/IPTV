@@ -27,10 +27,10 @@ The goal is simple: keep a clean, regularly maintained list of publicly availabl
 
 Contributions are welcome! Please read the [Contributing Guidelines](Contributing-Guidelines.md) before submitting a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [License](License.md) file for details.
-
 ## ‼️ Disclaimer
 
 I am not a professional. I am just someone with a laptop, a passion for solving problems, and a bank account balance that makes paid TV look like a luxury yacht. Do not treat this repository like a enterprise-grade software product backed by a support team. There is no support team. It's just me, probably running on cheap coffee and trial-and-error.
+
+## 📄 License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
