@@ -13,8 +13,8 @@ The goal is simple: keep a clean, regularly maintained list of publicly availabl
 
 ### 🛠️ Prerequisites
 
-- You'll need a media player that supports M3U playlists. Please see the [Players](#players) file for a list of recommended IPTV players.
-- You may also check the [Channels](#channels) file for more information about this playlist.
+- You'll need a media player that supports M3U playlists. Please see the [Players](Players.md) file for a list of recommended IPTV players.
+- You may also check the [Channels](Channels.md) file for more information about this playlist.
 
 ### 📦 Installation
 
@@ -25,8 +25,12 @@ The goal is simple: keep a clean, regularly maintained list of publicly availabl
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please read the [Contributing Guidelines](#contributing-guidelines) before submitting a pull request.
+Contributions are welcome! Please read the [Contributing Guidelines](Contributing-Guidelines.md) before submitting a pull request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [License](#license) file for details.
+This project is licensed under the MIT License - see the [License](License.md) file for details.
+
+## ‼️ Disclaimer
+
+I am not a professional. I am just someone with a laptop, a passion for solving problems, and a bank account balance that makes paid TV look like a luxury yacht. Do not treat this repository like a enterprise-grade software product backed by a support team. There is no support team. It's just me, probably running on cheap coffee and trial-and-error.
