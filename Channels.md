@@ -11,7 +11,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Animated shows, classic cartoons, and Japanese anime</summary>
 
-
 - Animax
 - Aniplus Asia
 - ANIME x HIDIVE
@@ -30,7 +29,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Theater, fine arts, classical music, and indie cinema</summary>
 
-
 - Craftsy
 - Create
 - DIY Art
@@ -41,7 +39,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Financial news, stock market updates, and economy</summary>
-
 
 - Bilyonaryo News Channel
 - Bloomberg Asia
@@ -55,7 +52,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>History, nature, science, and investigation networks</summary>
 
-  
 - CGTN Documentaries
 - Documentary+
 - Documentary+ International
@@ -75,7 +71,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 <details>
 <summary>Learning networks, public television, and kids' instruction</summary>
 
-  
 - DepEd TV
   
 </details>
@@ -84,16 +79,14 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Drama series, reality TV, game shows, and general TV</summary>
-
   
-- 90's Kids
-- 90s Kids TV 2
-- 90s Throwback
+- '90s Kids
+- '90s Kids TV 2
+- '90s Throwback
 - ABC
 - ALLTV
 - America's Got Talent
 - America's Next Top Model
-- American Horrors
 - Arirang
 - AsianCrush
 - Best of Dr. Phil
@@ -132,7 +125,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Live video game streams, competitions, and gaming news</summary>
-
   
   
 </details>
@@ -141,7 +133,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Mainstream national networks and general broadcast channels</summary>
-
   
 - GMA
 - GTV
@@ -155,7 +146,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Cartoons, preschool programming, and youth series</summary>
-
   
 - Baby Einstein
 - Baby Shark TV
@@ -196,7 +186,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Government proceedings, C-SPAN, parliament feeds</summary>
-
   
 - Crime + Investigation
 - Crime & Justice
@@ -211,7 +200,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Cooking, home improvement, travel, and fashion</summary>
-
   
 - Bon Appétit
 - Cooking Panda
@@ -231,8 +219,8 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Dedicated cinema channels, film networks, and blockbusters</summary>
-
   
+- American Horrors
 - Cinemo
 - FX Movie Channel
 - Hallmark Channel
@@ -264,7 +252,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Live music video channels, concerts, and radio broadcasts</summary>
-
   
 - Kool TV
 - MTV
@@ -286,7 +273,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>24/7 news, headlines, weather, and world affairs</summary>
-
   
 - Abante TV
 - ANC
@@ -304,7 +290,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Faith-based programming and spiritual broadcasts</summary>
-
   
 - A2Z
 - Amazing Facts TV
@@ -317,7 +302,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Technology news, space, engineering, and innovation</summary>
-
   
 - Scientology Network KSCN-DT1
 - Space Series
@@ -328,7 +312,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>General sports networks, live coverage, and highlights</summary>
-
   
 - Bein Sports Xtra
 - Fight Network
