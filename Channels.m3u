@@ -261,7 +261,7 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
 #EXTINF:-1 group-title="General",Kapamilya Online Live
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707731616/ei/QJbJZZiXIZ2D5t0P9PiQwAs/ip/175.176.7.129/id/XHDrMh-Ee6E.1/source/yt_live_broadcast/req
 
-#EXTINF:-1 tvg-id="KartoonChannel.us@SD",Kartoon Channel!
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD" group-title="Kids",Kartoon Channel!
 https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8
 
 #EXTINF:-1 tvg-id="KidsMovieClub.us@SD" group-title="Kids",Kids Movie Club
