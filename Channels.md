@@ -57,10 +57,6 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 - Documentary+ International
 - History
 - Mysteries Xplored
-- National Geographic
-- National Geographic Wild
-- The Explorers
-- The X-Files
 - True History
 - Unsolved Mysteries
   
@@ -107,11 +103,10 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 - Laff
 - Lifetime
 - Lifetime Asia
-- Living Asia Channel
 - POP TV
-- Series K Edge
-- Series K Heart
-- Series K Legacy
+- Series K-Edge
+- Series K-Heart
+- Series K-Legacy
 - SNL Vault
 - Supermarket Sweep
 - The Amazing Race
@@ -207,9 +202,11 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 - Hoarders by A&E
 - In the Kitchen
 - InTravel
+- Living Asia Channel
 - Outdoor Channel
 - Property & Reno
 - The Design Network
+- The Explorers
 - The Shopping Channel
 
   
@@ -302,7 +299,9 @@ https://raw.githubusercontent.com/miseryx39/IPTV/main/Channels.m3u
 
 <details>
 <summary>Technology news, space, engineering, and innovation</summary>
-  
+
+- National Geographic
+- National Geographic Wild
 - Scientology Network KSCN-DT1
 - Space Series
   
