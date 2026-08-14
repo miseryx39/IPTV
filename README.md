@@ -36,6 +36,7 @@ Huge thanks to the following users and their repositories for sourcing and organ
 - [@iptv-org](https://github.com/iptv-org) - [`iptv`](https://github.com/iptv-org/iptv) [`epg`](https://github.com/iptv-org/epg) 
 - [@Harleythetech](https://github.com/Harleythetech) - [`iphtv`](https://github.com/Harleythetech/IPHTV)
 - [@epgshare01](https://github.com/epgshare01) - [`EPG`](https://epgshare01.online/)
+- [@matthuisman](https://github.com/matthuisman) - [`i.mjh.nz`](https://github.com/matthuisman/i.mjh.nz)
 
 ## ‼️ Disclaimer
 
