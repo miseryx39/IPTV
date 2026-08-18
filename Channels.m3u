@@ -228,7 +228,7 @@ http://212.5.144.156/disney/index.m3u8
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2017_Disney_XD_logo.svg/960px-2017_Disney_XD_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" tvg-id="DisneyXD.us@East",Disney XD
-http://40.160.24.52/DISNEY_XD_HD/index.m3u8
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Bebe_TV_logo.svg/revision/latest/scale-to-width-down/250?cb=20100526171058" tvg-id="ducktv.sk@SD",DuckTV
 https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
